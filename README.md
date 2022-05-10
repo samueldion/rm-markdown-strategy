@@ -1,5 +1,5 @@
 # rm-markdown-strategy
-Markdown strategy for a game!
+**Markdown strategy for a game!**
 
 In the retail business, revenue management includes budgeting, product pricing, and demand forecasting, as well as tactics for implementing markdowns and determining where initial prices should be dropped to improve sales over time. The first known strategy is promotional discount, which are usually short and targeted at certain client segment. Nonetheless, we are interested in a second strategy, which is called a markdown. The latter occurs when a merchant permanently reduces the price of a product with the goal of maximizing revenue. This technique is used as overbuying is a constant dilemma in the retail business, and markdowns solve this problem while also increasing income.
 
@@ -9,7 +9,8 @@ To play this game, follow the link below: http://www.randhawa.us/games/retailer/
 The Retail Markdown Game is used in this research to determine the best strategy to handle markdowns by experimenting with different algorithms/approaches. An excel file was provided to us (Sales-Data.xlsx) and contains historical data to help us build a strategy.  
 
 
-*Report Structure:* 
+***Report Structure:* **
+
 1 Introduction
 
 2 Data Discovery
