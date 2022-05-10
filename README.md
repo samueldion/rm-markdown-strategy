@@ -10,7 +10,7 @@ The Retail Markdown Game is used in this research to determine the best strategy
 
 
 ***Report Structure:* **
-
+_
 1) Introduction
 
 2) Data Discovery
@@ -23,4 +23,4 @@ The Retail Markdown Game is used in this research to determine the best strategy
 
 6)	Final Strategy and Future Improvements
 
-7)	Appendix
+7)	Appendix_
