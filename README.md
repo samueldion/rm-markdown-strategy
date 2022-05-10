@@ -9,11 +9,17 @@ To play this game, follow the link below: http://www.randhawa.us/games/retailer/
 The Retail Markdown Game is used in this research to determine the best strategy to handle markdowns by experimenting with different algorithms/approaches. An excel file was provided to us (Sales-Data.xlsx) and contains historical data to help us build a strategy.  
 
 
-Report Structure: 
+*Report Structure:* 
 1 Introduction
+
 2 Data Discovery
+
 3	Testing our strategies
+
 4	Baseline approaches
+
 5	Dynamic Approaches
+
 6	Final Strategy and Future Improvements
-7	Appendix:
+
+7	Appendix
